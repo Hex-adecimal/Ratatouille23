@@ -40,3 +40,9 @@ Tutte le funzionalità assegnate devono essere realizzate implementando un siste
 È altresì auspicabile che il back-end sia distribuito come container Docker e che, al momento della discussione del progetto con demo del prodotto, sia messo in opera (utilizzando tecnologie allo stato dell’arte quali ad esempio servizi di public Cloud Computing come Azure o AWS), e sia quindi accessibile attraverso la rete Internet.
 Per lo svolgimento delle attività di progettazione, è obbligatorio l’utilizzo di tool di CASE. Inoltre, si richiede tassativamente di astrarre il design per favorire il riutilizzo del codice e la futura implementazione di altre funzionalità, esplicitando nella documentazione (si veda Sezione 5) le scelte intraprese per favorire tale astrazione.
 Per quanto riguarda le tecnologie da utilizzare, è data piena libertà di scelta al Gruppo di Lavoro contraente, con l’unico vincolo dell’utilizzo obbligatorio di linguaggi di programmazione Object- Oriented. Per esempio, la parte front-end può essere realizzata come applicazione desktop (e.g.: con
+
+## Link utili
+https://fireship.io
+https://www.youtube.com/watch?v=Sh6lK57Cuk4&list=PL0vfts4VzfNixzfaQWwDUg3W5TRbE7CyI
+https://code.visualstudio.com/docs/nodejs/working-with-javascript
+
