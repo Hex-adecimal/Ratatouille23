@@ -1,7 +1,8 @@
 # Ratatouille23
 | Giorno | Aggiornamento |
 | ------ | ------------- |
-|  |  |
+|  09/11/22 | Use case diagrams |
+| 10/11/22 | Boh |
 
 ## Output
 1. Documento dei Requisiti Software
