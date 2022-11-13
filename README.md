@@ -3,6 +3,7 @@
 | ------ | ------------- |
 |  09/11/22 | Use case diagrams |
 | 10/11/22 | Boh |
+| 12/11/22 | Individuazione del target degli utenti |
 
 ## Output
 1. Documento dei Requisiti Software
