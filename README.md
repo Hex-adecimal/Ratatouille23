@@ -85,3 +85,4 @@ https://code.visualstudio.com/docs/nodejs/working-with-javascript
 
 https://www.overleaf.com/5541297171dhdhtvymwxbc
 https://www.figma.com/team_invite/redeem/A4K8LucOmHwZczIw8DMXGf
+https://iconduck.com/icons/113753/pound-coin
