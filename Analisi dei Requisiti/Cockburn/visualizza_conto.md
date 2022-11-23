@@ -17,4 +17,4 @@
 | Extention | Step | User action | System |
 | --------- | ---- | ----------- | ------ |
 | Il supervisore torna indietro | 1.1 | Il supervisore clicca sul tasto indietro | |
-| Errore nella chiusura del conto | 2.1 |  |  | 
+| Errore nella chiusura del conto | 2.1 |  | Mostra errore "IL CONTO NON E' STATO CHIUSO CORRETTAMENTE" all'interno della schermata "TAVOLI" | 
