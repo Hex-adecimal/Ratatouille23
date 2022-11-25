@@ -8,9 +8,9 @@
 ## Output
 1. Documento dei Requisiti Software
   - a Analisi dei Requisiti
-    - i Modellazione di tutti i casi d’uso richiesti.
-    - ii Individuazione del target degli utenti. (solo gruppi “Nuovo Ordinamento”)
-    - iii Descrizioni Testuali Strutturate per almeno quattro (due, se si consegna prima del 31/03/2023) casi d’uso significativi (autenticazione esclusa) a scelta dei contraenti
+    - i Modellazione di tutti i casi d’uso richiesti. x
+    - ii Individuazione del target degli utenti. (solo gruppi “Nuovo Ordinamento”) x
+    - iii Descrizioni Testuali Strutturate per almeno quattro (due, se si consegna prima del 31/03/2023) casi d’uso significativi (autenticazione esclusa) a scelta dei contraenti x
 tra quelli richiesti.
     - iv Prototipazione visuale via Mock-up dell’interfaccia utente per tutti i casi d’uso
 assegnati.
