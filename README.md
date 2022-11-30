@@ -5,6 +5,8 @@
 | 10/11/22 | Boh |
 | 12/11/22 | Individuazione del target degli utenti |
 
+## Cose da fare:
+
 ## Output
 1. Documento dei Requisiti Software
   - a Analisi dei Requisiti
