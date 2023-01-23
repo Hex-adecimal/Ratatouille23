@@ -11,35 +11,46 @@
 3. Aggiungere button torna indietro
 
 ## Output
+Per le attività sopracitate, il Committente richiede i seguenti output:
 1. Documento dei Requisiti Software
   - a Analisi dei Requisiti
-    - i Modellazione di tutti i casi d’uso richiesti. x
-    - ii Individuazione del target degli utenti. (solo gruppi “Nuovo Ordinamento”) x
-    - iii Descrizioni Testuali Strutturate per almeno quattro (due, se si consegna prima del 31/03/2023) casi d’uso significativi (autenticazione esclusa) a scelta dei contraenti x
-tra quelli richiesti.
+    - i Modellazione di tutti i casi d’uso richiesti.
+    - ii Individuazione del target degli utenti. (solo gruppi “Nuovo Ordinamento”)
+    - iii Descrizioni Testuali Strutturate per almeno quattro (due, se si consegna prima del
+      31/03/2023) casi d’uso significativi (autenticazione esclusa) a scelta dei contraenti
+      tra quelli richiesti.
     - iv Prototipazione visuale via Mock-up dell’interfaccia utente per tutti i casi d’uso
-assegnati.
+      assegnati. Si raccomanda caldamente l’uso del tool “Figma”.
     - v Valutazione dell’usabilità a priori. (solo gruppi “Nuovo Ordinamento”)
     - vi Glossario.
   - b Specifica dei Requisiti.
     - i Classi, oggetti e relazioni di analisi.
     - ii Diagrammi di sequenza di analisi per due casi d’uso significativi a scelta dei
-contraenti tra quelli assegnati.
+      contraenti tra quelli assegnati.
     - iii Prototipazione funzionale via statechart dell’interfaccia grafica, relativamente ai casi
-d’uso individuati al punto 1.a.iii; (solo gruppi “Nuovo Ordinamento”)
+      d’uso individuati al punto 1.a.iii; (solo gruppi “Nuovo Ordinamento”)
     - iv Statechart di analisi (solo gruppi “Vecchio Ordinamento”).
-    - v Diagrammi di attività.
-  - c Test Plan per System Testing per i casi d’uso identificati al punto 1.a.iii.
+
 2. Documento di Design del sistema.
   - a Analisi dell’architettura con esplicita definizione dei criteri di design.
   - b Descrizione/motivazione delle scelte tecnologiche adottate.
   - c Diagramma delle classi di design.
   - d Diagrammi di stato di design, ove non banali (solo gruppi “Vecchio Ordinamento”).
   - e Diagrammi di sequenza di design per i casi d’uso identificati al punto 1.a.iii.
+
 3. Codice Sorgente sviluppato, comprensivo di eventuale Dockerfile.
+
 4. Testing e valutazione sul campo dell’usabilità.
-  - Codice xUnit per unit testing di quattro (due, se si consegna prima del 31/03/2023) metodi non banali, che abbiano almeno due parametri. In aggiunta al codice, una apposita sezione della documentazione deve descrivere le strategie adottate per la progettazione dei test dei due metodi (e.g.: classi di equivalenza individuate e coperte, criteri di copertura strutturale, etc.).
-  - Valutazione dell’usabilità sul campo, realizzata sul prodotto finito sia con tecniche simili a quelle messe in atto al punto 1.a.v, sia mediante analisi di file di log. È necessario allegare anche i file di log utilizzati nell’analisi. (solo gruppi “Nuovo Ordinamento”)
+  - a Codice xUnit per unit testing di quattro (due, se si consegna prima del 31/03/2023) metodi
+    non banali, che abbiano almeno due parametri. In aggiunta al codice, una apposita sezione
+    della documentazione deve descrivere le strategie adottate per la progettazione dei test dei
+    due metodi (e.g.: classi di equivalenza individuate e coperte, criteri di copertura strutturale,
+    etc.).
+  - b Valutazione dell’usabilità sul campo, realizzata sul prodotto finito sia con tecniche simili a
+    quelle messe in atto al punto 1.a.v, sia mediante analisi di file di log. È necessario allegare
+    anche i file di log utilizzati nell’analisi. (solo gruppi “Nuovo Ordinamento”)
+    Si noti che i Punti 1, 2 e 4 vanno realizzati come un unico documento, di seguito indicato come
+    “documentazione”.
 
 ## Requisiti di sistema 
 
