@@ -29,7 +29,6 @@ Per le attività sopracitate, il Committente richiede i seguenti output:
       contraenti tra quelli assegnati.
     - -[ ] iii Prototipazione funzionale via statechart dell’interfaccia grafica, relativamente ai casi
       d’uso individuati al punto 1.a.iii; (solo gruppi “Nuovo Ordinamento”)
-    - -[ ] iv Statechart di analisi (solo gruppi “Vecchio Ordinamento”).
 
 2. Documento di Design del sistema.
   - -[ ] a Analisi dell’architettura con esplicita definizione dei criteri di design.
