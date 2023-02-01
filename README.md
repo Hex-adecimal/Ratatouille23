@@ -19,7 +19,7 @@ Per le attività sopracitate, il Committente richiede i seguenti output:
     - -[x] iii Descrizioni Testuali Strutturate per almeno quattro (due, se si consegna prima del
       31/03/2023) casi d’uso significativi (autenticazione esclusa) a scelta dei contraenti
       tra quelli richiesti.
-    - -[ ] iv Prototipazione visuale via Mock-up dell’interfaccia utente per tutti i casi d’uso
+    - -[x] iv Prototipazione visuale via Mock-up dell’interfaccia utente per tutti i casi d’uso
       assegnati. Si raccomanda caldamente l’uso del tool “Figma”.
     - -[ ] v Valutazione dell’usabilità a priori. (solo gruppi “Nuovo Ordinamento”)
     - -[ ] vi Glossario.
